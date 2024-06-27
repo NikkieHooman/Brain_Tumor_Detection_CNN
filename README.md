@@ -20,7 +20,7 @@ The dataset is organized into separate folders for each category. You can downlo
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/DataDreamWeaver/BrainTumorDetectionCNN.git
+   git clone [https://github.com/NikkieHooman/Brain_Tumor_Detection_CNN.git](https://github.com/NikkieHooman/Brain_Tumor_Detection_CNN/main/README.md)
    cd BrainTumorDetectionCNN
    ```
 
