@@ -20,8 +20,8 @@ The dataset is organized into separate folders for each category. You can downlo
 
 1. **Clone the repository**:
    ```bash
-   [https://github.com/NikkieHooman/Brain_Tumor_Detection_CNN.git]
-   cd BrainTumorDetectionCNN
+   git clone https://github.com/NikkieHooman/Brain_Tumor_Detection_CNN.git
+   cd Brain_Tumor_Detection_CNN
    ```
 
 2. **Install the required packages**:
